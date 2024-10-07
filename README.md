@@ -99,7 +99,7 @@ This repository contains two Convolutional Neural Network (CNN) models trained f
 
 ### Loading the Models
 
-```python
+python
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 
